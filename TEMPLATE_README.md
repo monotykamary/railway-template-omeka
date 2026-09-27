@@ -2,7 +2,7 @@
 
 ## About Hosting Omeka Classic
 
-Omeka Classic is an open-source platform for digital collections, archives, exhibits, and cultural heritage publishing. This template deploys stable 3.2.1 with generated credentials and private MariaDB.
+Omeka Classic is an open-source platform for digital collections, archives, exhibits, and cultural heritage publishing. This template deploys stable 3.2.2 with generated credentials and private MariaDB.
 
 Sign in at `/admin` as `admin` with `OMEKA_ADMIN_PASSWORD`.
 
